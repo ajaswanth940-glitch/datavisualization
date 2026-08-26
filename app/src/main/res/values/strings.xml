@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Data Visualization App</string>
+    <string name="chart_title">Sales Data Visualization</string>
+    <string name="chart_description">2025 Sales Report</string>
+
+</resources>
